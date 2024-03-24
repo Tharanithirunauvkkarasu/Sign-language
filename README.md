@@ -1,6 +1,3 @@
-Certainly! Below is a sample **README.md** file for the **Sign Language Detection Project** based on MediaPipe and Flask. You can customize it further to suit your project's specifics:
-
----
 
 # Sign Language Detection using MediaPipe and Flask
 
